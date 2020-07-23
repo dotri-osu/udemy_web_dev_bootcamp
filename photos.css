@@ -1,0 +1,33 @@
+img{
+	height: 200px;
+	width: 30%
+	float: left;
+	margin: 1%;
+}
+
+h2{
+	margin-left:1%;
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: 800;
+}
+
+/*.mid{
+	height: 1000px;
+	width: 30%;
+	float: left;
+	margin: auto%;
+}*/
+
+#gordon{
+	height: 500px;
+}
+
+#catwoman{
+	height:500px;
+}
+
+#penguin{
+	height: 500px; 
+}
+
